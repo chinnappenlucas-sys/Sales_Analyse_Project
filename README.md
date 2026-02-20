@@ -89,6 +89,8 @@ The following steps were performed:
 - Matplotlib
 - Jupyter Notebook
 
+plt.savefig("images/revenue_by_country.png", bbox_inches="tight")
+
 ---
 
 ## 📎 Conclusion
