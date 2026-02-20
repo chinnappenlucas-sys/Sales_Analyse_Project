@@ -4,7 +4,7 @@
 - First project i've made from scratch to exercise my new skills.
 - This project analyzes a sales dataset to identify key performance drivers, risks, and business opportunities.
 - The objective is to provide actionable insights for business decision-makers.
-- 
+  
 ## 🔎 Project Overview
 
 This project analyzes a sales dataset to identify key revenue drivers, concentration risks, and growth opportunities.  
