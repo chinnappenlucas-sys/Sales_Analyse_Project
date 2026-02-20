@@ -89,9 +89,6 @@ The following steps were performed:
 - Matplotlib
 - Jupyter Notebook
 
-## 📊 Revenue by Country
-
-![Revenue by Country](images/revenue_by_country.png)
 
 ---
 
