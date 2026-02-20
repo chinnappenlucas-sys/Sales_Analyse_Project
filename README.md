@@ -89,7 +89,9 @@ The following steps were performed:
 - Matplotlib
 - Jupyter Notebook
 
-plt.savefig("images/revenue_by_country.png", bbox_inches="tight")
+## 📊 Revenue by Country
+
+![Revenue by Country](images/revenue_by_country.png)
 
 ---
 
